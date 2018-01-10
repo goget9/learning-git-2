@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster|Sedgwick+Ave+Display|Shadows+Into+Light");
+body {
+  text-align: center; }
+  body h1 {
+    font-family: 'Sedgwick Ave Display', cursive; }
+  body h2 {
+    font-family: 'Lobster', cursive; }
+  body p {
+    font-family: 'Shadows Into Light', cursive; }
+
+/*# sourceMappingURL=style.css.map */
