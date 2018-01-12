@@ -2,7 +2,8 @@
 body {
   text-align: center; }
   body h1 {
-    font-family: 'Sedgwick Ave Display', cursive; }
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: red; }
   body h2 {
     font-family: 'Lobster', cursive; }
   body p {
