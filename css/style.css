@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster|Sedgwick+Ave+Display|Shadows+Into+Light");
-body { text-align: center; display: flex; flex-wrap: wrap; }
+body { text-align: center; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
-body h1 { font-family: 'Sedgwick Ave Display', cursive; color: red; }
+body h1 { font-family: 'Sedgwick Ave Display', cursive; color: red; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
 body h2 { font-family: 'Lobster', cursive; }
 

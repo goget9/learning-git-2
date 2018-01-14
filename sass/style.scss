@@ -8,6 +8,8 @@ body {
 	h1 {
 		font-family: 'Sedgwick Ave Display', cursive;
 		color: red;
+		display: flex;
+		flex-wrap: wrap;
 	}
 	h2 {
 		font-family: 'Lobster', cursive;
