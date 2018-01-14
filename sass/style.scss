@@ -3,6 +3,8 @@
 body {
 	text-align: center;
 	display: flex;
+	flex-wrap: wrap;
+	
 	h1 {
 		font-family: 'Sedgwick Ave Display', cursive;
 		color: red;
